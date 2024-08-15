@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<resume>
+    <name> Edgaras Zuvialo </name>
+    <adress>
+     <city> Alytus </city>
+     <country> Lithuania </country>
+     <number> +37060053206 </number>
+     <email> zuvialoe@gmail.com </email>
+     <linkedin> www.linkedin.com/in/edgaras-zuvialo </linkedin>
+    </adress>
+    <aboutme>
+    <aboutmetext> I recently graduated with a bachelor's degree in computer games development and animation, so my 
+professional activity is driven by the intersection of technology and creativity. I am constantly 
+researching new IT innovations and deepening my knowledge, keeping up with new trends. I learn how to 
+model with programs such as Blender and Cinema 4D, and I also have practical experience with Unity in 
+the game engine. I know Microsoft Office programs, including Word, PowerPoint, Excel. Basic network 
+concepts such as a router or a firewall are also not unfamiliar. </aboutmetext>
+    </aboutme>
+    <experience>
+    <role> Shipment department manager / IT Administrator </role>
+    <company> Kautra </company>
+    <duration> 2021 June - 2023 October </duration>
+    <tasks> Working with Microsoft Office programs to create various presentations, customer-related tables, 
+creating consignment notes, creation and modeling of service promotional images for websites and social media accounts </tasks>
+    </experience>
+    <education>
+    <degree> Professional bachelor of computer science </degree>
+    <yeargraduated> 2023 </yeargraduated>
+    <school> SMK University of Applied Sciences </school>
+    <city> Kaunas </city>
+    </education>
+    <skills> Technical knowledge, collaboration skills, software competencies, a mindset of continious learning, problem solving </skills>
+    <activities> I am actively involved in game development projects, including the development of a personal survival 
+game, improving my skills in the Unity game engine, 3D modeling and game development principles.</activities>
+</resume>
